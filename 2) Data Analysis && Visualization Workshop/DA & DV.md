@@ -18,6 +18,14 @@ To access the official session Record, you can view or download it from the foll
 
 ---
 
+## 📕 Resource Materials
+
+🔗 [Data analysis & Data visualization using python (English)](https://youtube.com/playlist?list=PLLhBy6YSIT0DgjYR10eFQUnlu6-X9Qa2Y&si=u2VbM8SCn3W7Hx3g)
+
+🔗 [Data analysis & Data visualization using python (Arabic)](https://youtube.com/playlist?list=PLWd4nYaF_Vx7Db9uFWf_Df-UrP8ArF4L_&si=l0wWfq7LTs7FNDsn)
+
+
+---
 ## ⚡ Technologies Used
 
 - Python 3.x

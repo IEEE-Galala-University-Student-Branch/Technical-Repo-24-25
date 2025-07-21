@@ -18,6 +18,13 @@ To access the official session record, you can view or download it from the foll
 
 ---
 
+## 📕 Resource Materials
+
+🔗 [Data Preprocessing & EDA (English)](https://youtube.com/playlist?list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&si=pMMTfLMY_5n3WWNk)
+🔗 [Data Preprocessing & EDA (English)](https://youtube.com/playlist?list=PLg8h8Ej1e8l2u2Hdt2EIX86SFJpgvUUs3&si=NBSEaM1ORfwAEvCl)
+
+---
+
 ## ⚡ Technologies & Topics Covered
 
 - **Python 3.x**

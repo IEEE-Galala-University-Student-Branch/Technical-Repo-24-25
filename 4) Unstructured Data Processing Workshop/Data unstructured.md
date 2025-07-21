@@ -40,6 +40,7 @@ The image section introduced the basics of digital images and common techniques 
 To access the official session materials or watch the recording, use the link below:
 
 🔗 [Unstructured Data Pre-processing - Session 2](https://galalauni-my.sharepoint.com/:v:/g/personal/mrs101798_gu_edu_eg/Eb-E5n1le1hCl9u6PA0K2gUB6VFcYvzW_ZpSXK1HrmzABw)
+()
 
 ---
 

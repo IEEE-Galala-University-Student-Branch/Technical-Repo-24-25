@@ -17,7 +17,14 @@ To access the official session Record, you can view or download it from the foll
 🔗 [Python for AI & ML - Session 1 (Google Drive)](https://drive.google.com/file/d/1CEflLqOwDCJ-HLrwiPrNpVl7oK6d0Qyw/view?usp=drive_link)
 
 ---
+## 📕 Resource Materials
 
+🔗 [Python Full Course for Beginners (English)](https://youtu.be/_uQrJ0TkZlc?si=tUZ_4LN3NF2ClzPq)
+
+🔗 [Python Full Course for Beginners (Arabic)](https://youtu.be/ij6qQQlGKtE?si=QVOLcrhhLu1F2T2j)
+
+
+---
 ## ⚡ Technologies Used
 
 - Python 3.x
